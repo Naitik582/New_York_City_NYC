@@ -1,4 +1,4 @@
-<h1>NYC Airbnb Data Cleaning & Preprocessing</h1>
+<h1>New York City Airbnb Open Data</h1>
 
 **Overview**
 
